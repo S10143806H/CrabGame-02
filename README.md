@@ -7,8 +7,8 @@ CrabGame Round2
 
 ## Hint
 
-Download “Treasure.zip”
+Download “Treasure.zip”, use the KEY to UNZIP it
 
 ## 綫索
 
-下載 “Treasure.zip”
+下載 “Treasure.zip” 后使用 “密鑰” 打開
